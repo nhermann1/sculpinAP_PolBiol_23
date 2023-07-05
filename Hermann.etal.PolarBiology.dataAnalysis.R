@@ -51,8 +51,6 @@ library(latticeDensity)
 #To use, add command for scale_fill_manual(values=cbPalette)
 theme_set(theme_bw(base_size=25))
 
-#Mapbox token
-#token<-"sk.eyJ1IjoibmgxMDg3IiwiYSI6ImNrNzVpbzBjczBjMTIzZm43djBueHo4Z2wifQ.WSm0jc6W_wWQuX7AaCyPSw"
 
 '%notin%'<-Negate('%in%')
 
