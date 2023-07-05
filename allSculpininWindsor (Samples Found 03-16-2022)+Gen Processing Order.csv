@@ -1,0 +1,162 @@
+Year,Species_FieldID,ID,Fate,Biopsies,Species_GeneticID
+2017,Fourhorn,F264,Acoustic Telemetry,Fin Clip,M. quadricornis
+2017,Fourhorn,F269,Acoustic Telemetry,Fin Clip,M. quadricornis
+2017,Fourhorn,F270,Acoustic Telemetry,Fin Clip,M. quadricornis
+2017,Fourhorn,F265,Dissected,"Muscle, Liver, Fin Clip",M. quadricornis
+2018,Fourhorn,MS003,Acoustic Telemetry,Fin Clip,M. quadricornis
+2018,Fourhorn,MS010,Acoustic Telemetry,Fin Clip,M. quadricornis
+2018,Fourhorn,MS018,Acoustic Telemetry,Fin Clip,M. quadricornis
+2018,Fourhorn,SSM015,Dissected,"Gill, Blood, Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Fourhorn,SSM016,Dissected,"Gill, Blood, Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Fourhorn,SSM026,Dissected,"Gill, Blood, Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Fourhorn,SSM027,Dissected,"Gill, Blood, Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Fourhorn,SSM058,Dissected,"Gill, Blood, Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Slimy,SSM013,Dissected,"Blood, Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Slimy,SSM012,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Slimy,SSM038,Dissected,"Muscle, Liver, Fin Clip, Otolith(s), Gill",M. quadricornis
+2018,Slimy,SSM039,Dissected,"Muscle, Liver, Fin Clip, Otolith(s), Gill",M. scorpioides
+2019,Fourhorn,MS022,Acoustic Telemetry,Fin Clip,M. quadricornis
+2019,Fourhorn,MS028,Acoustic Telemetry,Fin Clip,M. quadricornis
+2019,Fourhorn,MS029,Acoustic Telemetry,Fin Clip,M. quadricornis
+2019,Fourhorn,MS034,Acoustic Telemetry,Fin Clip,M. quadricornis
+2019,Fourhorn,SSM073,Dissected,"Blood, Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2019,Fourhorn,SSM071,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2019,Fourhorn,SSM072,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Slimy,SSM005a,Dissected,"Muscle, Liver, Fin Clip, Otolith(s), Fin Ray, Gill, Blood",
+2018,Slimy,SSM010,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Slimy,SSM043,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Slimy,SSM044,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2019,Fourhorn,MS027,Acoustic Telemetry,Fin Clip,M. quadricornis
+2019,Fourhorn,MS033,Acoustic Telemetry,Fin Clip,M. quadricornis
+2019,Fourhorn,MS035,Acoustic Telemetry,Fin Clip,M. quadricornis
+2019,Fourhorn,MS036,Acoustic Telemetry,Fin Clip,M. quadricornis
+2019,Fourhorn,MS037,Acoustic Telemetry,Fin Clip,M. quadricornis
+2019,Fourhorn,SSM063,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2019,Fourhorn,SSM065,Dissected,"Blood, Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2019,Fourhorn,SSM066,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Fourhorn,MS011,Acoustic Telemetry,Fin Clip,M. quadricornis
+2018,Fourhorn,MS019,Acoustic Telemetry,Fin Clip,M. quadricornis
+2018,Fourhorn,SSM002,Dissected,"Muscle, Liver, Fin Clip, Otolith(s), Fin Ray",M. quadricornis
+2018,Fourhorn,SSM003,Dissected,"Muscle, Liver, Fin Clip, Otoliths, Fin Ray, Blood",M. quadricornis
+2018,Fourhorn,SSM004,Dissected,"Muscle, Liver, Fin Clip, Otolith(s), Fin Ray, Blood",M. quadricornis
+2018,Fourhorn,SSM014,Dissected,"Gill, Blood, Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Fourhorn,SSM030,Dissected,"Muscle, Liver, Fin Clip, Otolith(s), Gill",M. quadricornis
+2017,Fourhorn,F260,Acoustic Telemetry,Fin Clip,M. quadricornis
+2017,Fourhorn,F263,Acoustic Telemetry,Fin Clip,M. quadricornis
+2018,Fourhorn,SSM031,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Fourhorn,SSM032,Dissected,"Blood, Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Fourhorn,SSM033,Dissected,"Blood, Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Fourhorn,SSM034,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2017,Fourhorn,F286,Dissected,"Muscle, Liver, Fin Clip",M. quadricornis
+2017,Fourhorn,F323,Dissected,"Muscle, Liver, Fin Clip",M. quadricornis
+2018,Fourhorn,SSM035,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Fourhorn,SSM036,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2019,Fourhorn,SSM060,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2019,Fourhorn,SSM061,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2019,Fourhorn,SSM062,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2019,Fourhorn,SSM067,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2019,Fourhorn,SSM068,Dissected,"Blood, Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2019,Fourhorn,SSM069,Dissected,"Blood, Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2019,Fourhorn,SSM070,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2019,Fourhorn,SSM074,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2019,Fourhorn,SSM075,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2018,Fourhorn,MS020,Acoustic Telemetry,Fin Clip,M. quadricornis
+2019,Fourhorn,MS021,Acoustic Telemetry,Fin Clip,M. quadricornis
+2019,Fourhorn,MS023,Acoustic Telemetry,Fin Clip,M. quadricornis
+2019,Fourhorn,MS024,Acoustic Telemetry,Fin Clip,M. quadricornis
+2019,Fourhorn,MS026,Acoustic Telemetry,Fin Clip,M. quadricornis
+2019,Fourhorn,MS030,Acoustic Telemetry,Fin Clip,M. quadricornis
+2018,Fourhorn,MS004,Acoustic Telemetry,Fin Clip,M. quadricornis
+2018,Slimy,SSM001,Dissected,"Muscle, Liver, Fin Clip, Fin Ray",M. scorpioides
+2019,Fourhorn,SSM064,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. quadricornis
+2017,Slimy,S121,Acoustic Telemetry,Fin Clip,M. scorpioides
+2017,Slimy,S140,Acoustic Telemetry,Fin Clip,M. scorpioides
+2017,Slimy,S169,Acoustic Telemetry,Fin Clip,M. scorpioides
+2017,Slimy,S148,Acoustic Telemetry,"Muscle, Fin Clip",M. scorpioides
+2017,Slimy,S152,Acoustic Telemetry,Fin Clip,M. scorpioides
+2017,Slimy,S167,Acoustic Telemetry,Fin Clip,M. scorpioides
+2017,Fourhorn,F154,Dissected,"Whole Body, Fin Clip, Muscle, Liver",M. scorpioides
+2017,Fourhorn,F266,Dissected,"Muscle, Liver, Fin Clip",M. scorpius
+2017,Slimy,S95,Dissected,"Muscle, Liver, Fin Clip",M. scorpius
+2017,Slimy,S96,Dissected,"Muscle, Liver, Fin Clip",M. scorpius
+2019,Slimy,MS032,Acoustic Telemetry,Fin Clip,M. scorpius
+2019,Slimy,SSM076,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",M. scorpius
+2017,Fourhorn,F276,Acoustic Telemetry,Fin Clip,M. quadricornis
+2017,Fourhorn,F272,Dissected,"Muscle, Liver, Fin Clip",M. quadricornis
+2017,Fourhorn,F273,Dissected,"Muscle, Liver, Fin Clip",M. quadricornis
+2018,Fourhorn,MS002,Acoustic Telemetry,Fin Clip,M. quadricornis
+2019,Arctic Cod,SSB001,Dissected,"Stomach contents, Muscle, Liver, Fin Clip, Otolith(s)",
+2019,Slimy,MS031,Acoustic Telemetry,Fin Clip,
+2019,Unknown sculpin,,Frozen Whole,Whole Body,
+2017,Fourhorn,F274,Dissected,"Muscle, Liver, Fin Clip",M. quadricornis
+2017,Fourhorn,F275,Dissected,"Muscle, Liver, Fin Clip",M. quadricornis
+2017,Fourhorn,F281,Acoustic Telemetry,Fin Clip,M. quadricornis
+2017,Fourhorn,F282,Acoustic Telemetry,Fin Clip,M. quadricornis
+2017,Fourhorn,F343,Acoustic Telemetry,Fin Clip,M. quadricornis
+2017,Fourhorn,F344,Acoustic Telemetry,Fin Clip,M. quadricornis
+2017,Fourhorn,F345,Acoustic Telemetry,Fin Clip,M. quadricornis
+2017,Fourhorn,F346,Acoustic Telemetry,Fin Clip,M. quadricornis
+2017,Fourhorn,F349,Acoustic Telemetry,Fin Clip,M. quadricornis
+2017,Fourhorn,F350,Acoustic Telemetry,Fin Clip,M. quadricornis
+2019,Fourhorn,MS025,Acoustic Telemetry,Fin Clip,M. quadricornis
+2018,Fourhorn,MS005,Acoustic Telemetry,Fin Clip,
+2018,Fourhorn,MS006,Acoustic Telemetry,Fin Clip,
+2018,Fourhorn,MS007,Acoustic Telemetry,Fin Clip,
+2018,Fourhorn,MS008,Acoustic Telemetry,Fin Clip,
+2018,Fourhorn,MS009,Acoustic Telemetry,Fin Clip,
+2018,Fourhorn,MS012,Acoustic Telemetry,Fin Clip,
+2018,Fourhorn,MS013,Acoustic Telemetry,Fin Clip,
+2018,Fourhorn,MS014,Acoustic Telemetry,Fin Clip,
+2018,Fourhorn,MS015,Acoustic Telemetry,Fin Clip,
+2018,Fourhorn,MS016,Acoustic Telemetry,Fin Clip,
+2018,Fourhorn,MS017,Acoustic Telemetry,Fin Clip,
+2018,Fourhorn,SSM005b,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM006,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM007,Dissected,"Blood, Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM008,Dissected,"Blood, Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM009,Dissected,"Blood, Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM011,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM017,Dissected,"Gill, Blood, Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM018,Dissected,"Gill, Blood, Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM019,Dissected,"Muscle, Liver, Fin Clip, Otolith(s), Gill",
+2018,Fourhorn,SSM020,Dissected,"Muscle, Liver, Fin Clip, Otolith(s), Gill",
+2018,Fourhorn,SSM021,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM022,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM023,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM024a,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM024b,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM025,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM028,Dissected,"Muscle, Liver, Fin Clip, Otolith(s), Gill",
+2018,Fourhorn,SSM029,Dissected,"Gill, Blood, Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM037,Dissected,"Gill, Blood, Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM040,Dissected,"Muscle, Liver, Fin Clip, Otolith(s), Gill",
+2018,Fourhorn,SSM041,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM042,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM045,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM046,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM047,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM048,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM049,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM050,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM051,Dissected,"Blood, Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM052,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM053,Dissected,"Gill, Blood, Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM054,Dissected,"Muscle, Liver, Fin Clip, Otolith(s), Gill",
+2018,Fourhorn,SSM055,Dissected,"Gill, Blood, Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM056,Dissected,"Blood, Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM057,Dissected,"Muscle, Liver, Fin Clip, Otolith(s)",
+2018,Fourhorn,SSM059,Dissected,"Gill, Blood, Muscle, Liver, Fin Clip, Otolith(s)",
+2017,Slimy,S94,Acoustic Telemetry,Fin Clip,
+2017,Slimy,S97,Acoustic Telemetry,Fin Clip,
+2017,Fourhorn,F261,Acoustic Telemetry,Fin Clip,
+2017,Fourhorn,F262,Acoustic Telemetry,Fin Clip,
+2017,Fourhorn,F277,Dissected,"Muscle, Liver, Fin Clip",
+2017,Fourhorn,F278,Acoustic Telemetry,Fin Clip,
+2017,Fourhorn,F279,Acoustic Telemetry,Fin Clip,
+2017,Fourhorn,F280,Acoustic Telemetry,Fin Clip,
+2017,Fourhorn,F319,Acoustic Telemetry,Fin Clip,
+2017,Fourhorn,F320,Acoustic Telemetry,Fin Clip,
+2017,Fourhorn,F321,Acoustic Telemetry,Fin Clip,
+2017,Fourhorn,F338,Acoustic Telemetry,Fin Clip,
+2017,Fourhorn,F339,Acoustic Telemetry,Fin Clip,
+2017,Fourhorn,F340,Acoustic Telemetry,Fin Clip,
