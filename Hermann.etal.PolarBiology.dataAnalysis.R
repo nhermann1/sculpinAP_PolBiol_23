@@ -5,7 +5,6 @@ rm(list=ls())
 
 set.seed(42)
 
-setwd("C:/Users/nh1087/OneDrive - USNH/Documents/UNH Research/Data/CSV_Files/Movement")
 
 library(tidyverse)
 library(ggplot2)
@@ -57,11 +56,11 @@ theme_set(theme_bw(base_size=25))
 
 '%notin%'<-Negate('%in%')
 
-tags<-read.csv("../2019_Sculpin_Tagged.csv")%>%
+tags<-read.csv("2019_Sculpin_Tagged.csv")%>%
   filter(Tag_Type=="V9PA")%>%
   mutate(Fish_detailID=ifelse(Species=="Slimy",paste0("Msco",substr(Fish_ID,3,5)),paste0("Mqua",substr(Fish_ID,3,5))))
 
-surgeryTime<-read.csv("../2019_Sculpin_Tagged.csv")%>%
+surgeryTime<-read.csv("2019_Sculpin_Tagged.csv")%>%
   filter(Tag_Type=="V9PA")%>%
   dplyr::select(Date,Anesthesia=Anestheisa,Surgery.start=Tag_Start,Surgery.stop=Tag_Stop,Recovery,Release)%>%
   mutate(Anesthesia=mdy_hm(paste(Date,gsub("([a,p])"," \\1",Anesthesia))),
@@ -173,7 +172,7 @@ nrow(filter(V9APs,!is.na(rateDepth_ms)))/nrow(filter(V9APs,Tag_Type=="V9A"))
 #65.2% of accelerations have pressure measures within 12 minutes both before AND after (so I can calculate rate of change)
 
 
-accurateIDs<-read.csv("../../allSculpininWindsor (Samples Found 03-16-2022)+Gen Processing Order.csv")%>%
+accurateIDs<-read.csv("allSculpininWindsor (Samples Found 03-16-2022)+Gen Processing Order.csv")%>%
   mutate(Sample.ID=gsub("^F","FH",ID))
 table(accurateIDs$Species_GeneticID)
 
@@ -186,7 +185,7 @@ spatial<-read.csv("spatial.csv")
 
 
 #Doing it by distances
-tremblay<-st_read("C:/Users/nh1087/OneDrive - USNH/Documents/UNH Research/Data/Mapping Data/tremblay_and_Islands.shp")
+tremblay<-st_read("tremblay_and_Islands.shp")
 tremblay<-fortify(tremblay)
 
 tremblay<-filter(tremblay,OBJECTID=="6")
@@ -204,7 +203,7 @@ plotBuffer<-left_join(plotBuffer,detections%>%group_by(Station.name)%>%summarise
 plotBuffer[is.na(plotBuffer)]<-0
 
 
-bathy<-raster("C:/Users/nh1087/OneDrive - USNH/Documents/UNH Research/Data/Mapping Data/GEBCO_2020_15_Apr_2021_ed9a233c5ed5/gebco_2020_n72.59971618652344_s72.22480773925781_w-81.42654418945312_e-80.47622680664062.nc",varname="elevation")
+bathy<-raster("gebco_2020_n72.59971618652344_s72.22480773925781_w-81.42654418945312_e-80.47622680664062.nc",varname="elevation")
 bathyDF<-as.data.frame(bathy[[1]],xy=T)
 colnames(bathyDF)<-c("Long","Lat","z")
 bathyDF$z<-ifelse(bathyDF$z>1,NA,bathyDF$z)
@@ -220,7 +219,7 @@ bathyPolyW<-filter(bathyPoly,id<=0 & id>-270)
 bathyPolyL<-filter(bathyPoly,id>0)
 
 
-load("~/UNH Research/Data/Mapping Data/googleTR.rda")
+load("googleTR.rda")
 
 
 water.col <- colorRampPalette(c("purple4", "royalblue4", "royalblue1", "skyblue3", "lightblue3", "white"))
@@ -304,7 +303,7 @@ load("insetMap_googleMap.R")
 countries<-map_data("world")%>%filter(region%in%c("Canada","USA"))
 countriesLabels<-countries%>%
   group_by(region,subregion)%>%summarise(long=mean(long),lat=mean(lat))
-canada<-readOGR("../../Mapping Data/Canada/lpr_000b16a_e.shp")
+canada<-readOGR("lpr_000b16a_e.shp")
 canada <- spTransform(canada, CRSobj = CRS("+proj=longlat +ellps=WGS84"))
 
 canadaDF<-fortify(canada)
